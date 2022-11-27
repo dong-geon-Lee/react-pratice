@@ -28,8 +28,10 @@ export default reducer;
 //* 1. 리듀서 매개변수에 state 부분은 인터페이스를 삽입하고 action은 일단 any로 설정해라.
 //* 2. switch case문을 작성해라. 반환 유형까지 마무리 하기
 //* 3. Action 인터페이스 작성해서 액션 매개변수에 추가해라
-// 4. Action 매개변수 간소화 시키기. 새로운 type을 정의해라!
-// 5. enum을 추가해서 오타가능성 많은 문자열 type을 정리하기
+//* 4. Action 매개변수 간소화 시키기. 새로운 type을 정의해라!
+//* 5. enum을 추가해서 오타가능성 많은 문자열 type을 정리하기
+//* 6. 폴더 만들기 action-types, action
+//* 7. 폴더 만들기 action-creators
 
 //
 /**
